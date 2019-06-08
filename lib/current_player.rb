@@ -16,5 +16,5 @@ def current_player(board)
 #    return "O"
 #  end
 
-turn == 0 ? return "X" : return "O"
+turn == 0 ? "X" : "O"
 end
